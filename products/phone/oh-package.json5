@@ -1,0 +1,15 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {   //依赖列表，此处声明当前模块需要用到的其它模块
+    "@qs/news": "file:../../features/news",
+    "@qs/live": "file:../../features/live",
+    "@qs/long": "file:../../features/longvideo",
+    "@qs/common": "file:../../common"
+  }
+}
+

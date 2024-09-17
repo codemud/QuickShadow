@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "UltrabookAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "UltrabookAbility_label",
+      "value": "label"
+    }
+  ]
+}

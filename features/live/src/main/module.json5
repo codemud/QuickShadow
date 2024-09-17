@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "live",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}
